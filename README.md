@@ -24,7 +24,7 @@ https://www.markdownguide.org/basic-syntax/#reference-style-links
     <a href="https://github.com/glwbr/OPi/issues">Report Bug</a>
     ·
     <a href="https://github.com/glwbr/OPi/issues">Request Feature</a><br />
-    English | <a href="../pt-br/README.md">Português</a>
+    English | <a href="https://github.com/glwbr/OPi/blob/main/docs/pt-br/README.md">Português</a>
   </p>
 </div>
 <!-- END HEADER -->

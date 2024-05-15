@@ -122,7 +122,7 @@ This subsection will provide detailed instructions for installing your chosen co
 ## Useful Content
 <ol>
   <li>
-    <a href="Security.md">Security</a>
+    <a href="SECURITY.md">Security</a>
   </li>
 </ol>
 <!-- END USEFUL -->

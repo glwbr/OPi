@@ -1,9 +1,5 @@
 <a name="readme-top"></a>
 
-a new push
-another one
-
-
 <!--
 *** Markdown "reference style" para facilitar a leitura.
 *** Reference links use brackets [ ]  instead of parenthesis ( ).
@@ -11,7 +7,7 @@ another one
 https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<!-- LOGO -->
+<!-- HEADER -->
 <br />
 <div align="center">
   <a href="/">
@@ -31,6 +27,7 @@ https://www.markdownguide.org/basic-syntax/#reference-style-links
     English | <a href="../pt-br/README.md">Português</a>
   </p>
 </div>
+<!-- END HEADER -->
 
 <!-- TABLE OF CONTENTS -->
 <details open>
@@ -160,7 +157,6 @@ Detailed steps on how to use the infrastructure for hosting applications.
 
 !TODO
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- END CONTRIBUTING -->
 
 <!-- IMAGES -->

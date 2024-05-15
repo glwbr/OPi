@@ -43,8 +43,8 @@ https://www.markdownguide.org/basic-syntax/#reference-style-links
    <li>
      <a href="#requisitos">Requisitos</a>
      <ul>
-       <li><a href="#essenciais">Essenciais</a></li>
-       <li><a href="#opcionais">Opcionais</a></li>
+       <li><a href="#essencial">Essencial</a></li>
+       <li><a href="#opcional">Opcional</a></li>
        <li><a href="#containers-runtime">Containers Runtime</a></li>
          <ul>
            <li><a href="#docker">Docker</a></li>
@@ -52,14 +52,14 @@ https://www.markdownguide.org/basic-syntax/#reference-style-links
          </ul>
        <li><a href="#kubernetes">Kubernetes</a></li>
          <ul>
-           <li><a href="#escolhendo-uma-distribuição-do-kubernetes">Escolhendo uma Distribuição do Kubernetes</a></li>
+           <li><a href="#escolhendo-uma-distribuição-kubernetes">Escolhendo uma Distribuição do Kubernetes</a></li>
         </ul>
      </ul>
    </li>
     <li><a href="#utilidades">Utilidades</a></li>
     <li><a href="#como-usar">Como Usar</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contribuindo">Contribuindo</a></li>
+    <li><a href="#como-contribuir">Como Contribuir</a></li>
   </ol>
 </details>
 <!-- FIM DO ÍNDICE -->
@@ -148,7 +148,7 @@ Passos detalhados sobre como usar a infraestrutura para hospedar aplicações.
 <!-- FIM ROADMAP -->
 
 <!-- CONTRIBUIR -->
-## Contribuir
+## Como Contribuir
 
 !TODO
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
